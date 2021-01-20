@@ -30,11 +30,11 @@ If the value is not 'true', 'false', 'null', or a number, please use
 double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
-<a id="s_lc_event_7478009" href="https://okstate.libcal.com/calendar/events/swc_python">CLICK AND REGISTER</a>
+<a id="s_lc_event_7478009" href="https://okstate.libcal.com/calendar/events/swc_python">REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7478009 {
-  background: #DFDFDF;
+  background: #FF3705;
   border: 1px solid #DFDFDF;
   border-radius: 4px;
   color: #777777;
