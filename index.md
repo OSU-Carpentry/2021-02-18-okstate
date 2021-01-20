@@ -34,10 +34,10 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7478009 {
-  background: #FF3705;
+  background: #FF3300;
   border: 1px solid #DFDFDF;
   border-radius: 4px;
-  color: #777777;
+  color: #000000;
   font: 14px Arial, Helvetica, Verdana;
   padding: 8px 20px;
   cursor: pointer;
